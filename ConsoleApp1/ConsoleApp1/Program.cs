@@ -25,3 +25,6 @@ int CalculateMax(int[] tab)
 }
 
 //Aktualizacja Main bardzo warznym komentarzem
+
+int x = 2;
+int y = 3;
