@@ -28,3 +28,8 @@ int CalculateMax(int[] tab)
 
 int x = 2;
 int y = 3;
+
+//Aktualizacja featue-conflict bardzo warznym komentarzem
+
+x = 1; 
+y = 1;
