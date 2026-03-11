@@ -11,6 +11,7 @@ Console.WriteLine("Hello, World2!");
 
 Console.WriteLine("Po merge");
 
+//dodanie calculateAverage
 double calculateAverage(int a, int b)
 {
     return (a + b)/2;
