@@ -23,3 +23,8 @@ int CalculateMax(int[] tab)
 {
     return tab.Max();
 }
+
+//Aktualizacja Main bardzo warznym komentarzem
+
+int x = 1;
+int y = 1;
