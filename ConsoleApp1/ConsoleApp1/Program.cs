@@ -10,3 +10,8 @@ Console.WriteLine("Hello, World1!");
 Console.WriteLine("Hello, World2!");
 
 Console.WriteLine("Po merge");
+
+int calculateAverage(int a, int b)
+{
+    return (a + b)/2;
+}
