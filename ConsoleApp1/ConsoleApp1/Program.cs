@@ -16,7 +16,8 @@ double calculateAverage(int a, int b)
     return (a + b)/2;
 }
 
-int CalculateMax(int[] values)
+//dodanie CalculateMax
+int CalculateMax(int[] tab)
 {
-    return values.Max();
+    return tab.Max();
 }
