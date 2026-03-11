@@ -23,3 +23,5 @@ int CalculateMax(int[] tab)
 {
     return tab.Max();
 }
+
+//Aktualizacja Main bardzo warznym komentarzem
