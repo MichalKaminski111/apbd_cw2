@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//Moje hello world
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Hello, World3!");
